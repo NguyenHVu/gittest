@@ -1,0 +1,84 @@
+:root {
+    --color-primary: #007bff;
+    --color-secondary: #6c757d;
+    --color-success: #28a745;
+    --color-danger: #dc3545;
+    --color-warning: #ffc107;
+    --color-info: #17a2b8;
+    --color-light: #f8f9fa;
+    --color-dark: #343a40;
+    --color-white: #fff;
+    --color-black: #000;
+    --color-gray-100: #f8f9fa;
+    --color-gray-200: #e9ecef;
+    --color-gray-300: #dee2e6;
+    --color-gray-400: #ced4da;
+    --color-gray-500: #adb5bd;
+    --color-gray-600: #6c757d;
+    --color-gray-700: #495057;
+    --color-gray-800: #343a40;
+    --color-gray-900: #212529;
+    --color-gray-1000: #000;
+    --color-gray-1100: #fff;
+    --color-gray-1200: #f8f9fa;
+    --color-gray-1300: #e9ecef;
+    --color-gray-1400: #dee2e6;
+    --color-gray-1500: #ced4da;
+    --color-gray-1600: #adb5bd;
+    --color-gray-1700: #6c757d;
+    --color-gray-1800: #495057;
+    --color-gray-1900: #343a40;
+    --color-gray-2000: #212529;
+    --color-gray-2100: #000;
+    --color-gray-2200: #fff;
+    --color-gray-2300: #f8f9fa;
+    --color-gray-2400: #e9ecef;
+    --color-gray-2500: #dee2e6;
+    --color-gray-2600: #ced4da;
+    --color-gray-2700: #adb5bd;
+    --color-gray-2800: #6c757d;
+    --color-gray-2900: #495057;
+    --color-gray-3000: #343a40;
+    --color-gray-3100: #212529;
+    --color-gray-3200: #000;
+}
+
+:root {
+    --width-1: 0.25rem;
+    --width-2: 0.5rem;
+    --width-3: 0.75rem;
+    --width-4: 1rem;
+    --width-5: 1.25rem;
+    --width-6: 1.5rem;
+    --width-7: 1.75rem;
+    --width-8: 2rem;
+    --width-9: 2.25rem;
+    --width-10: 2.5rem;
+    
+    --height-1: 0.25rem;
+    --height-2: 0.5rem;
+    --height-3: 0.75rem;
+    --height-4: 1rem;
+    --height-5: 1.25rem;
+    --height-6: 1.5rem;
+    --height-7: 1.75rem;
+    --height-8: 2rem;
+
+    --font-size-1: 0.75rem;
+    --font-size-2: 0.875rem;
+    --font-size-3: 1rem;
+    --font-size-4: 1.125rem;
+    --font-size-5: 1.25rem;
+    --font-size-6: 1.5rem;
+
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+
+    --border-radius-1: 0.125rem;
+    --border-radius-2: 0.25rem;
+    --border-radius-3: 0.5rem;
+    --border-radius-4: 1rem;
+}

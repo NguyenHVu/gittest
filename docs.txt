@@ -1,0 +1,11 @@
+HTML: 
+    - div
+CSS :
+    - những thuộc tính css cơ bản 
+    - selector css
+    - style css layout
+        - inline
+        - block 
+        - inline-block
+
+
