@@ -38,3 +38,24 @@ input{
     margin: 10px;
     outline: none;
 }
+
+.cart {
+    position: absolute;
+    display: none;
+    right: 0;
+    top: 0;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 100vh;
+    background-color: var(--color-gray-3200);
+    color: var(--color-white);
+    font-size: 1rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+
+}
+
+.product-item{
+    margin: 10px
+}
